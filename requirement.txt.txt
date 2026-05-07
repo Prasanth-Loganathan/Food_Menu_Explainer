@@ -1,5 +1,0 @@
-streamlit
-requests
-jsonpath-ng
-sentence-transformers
-scikit-learn
