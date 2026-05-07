@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openai
+langchain
+langgraph
+crewai
+faiss-cpu
+sentence-transformers
+python-dotenv
+requests
+transformers
+torch
+ollama
