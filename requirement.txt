@@ -15,4 +15,4 @@ requests
 transformers
 torch
 ollama
-onnxruntime==1.23.0
+
